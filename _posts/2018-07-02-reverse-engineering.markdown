@@ -9,36 +9,36 @@ List of tipps and tricks when reversing/cracking/hacking something
 
 UNIX
 ---
-grep
-more
-man -> man pages reference
-find
-openssl s_client -connect -ign_eof
+-grep
+-more
+-man -> man pages reference
+-find
+-openssl s_client -connect -ign_eof
 
 Binary
 ---
-ltrace
-strings
-gdb
+-ltrace
+-strings
+-gdb
 -b
 -disas main
-r2
+-r2
 -aaa
 -VV
 
 XSS
 ---
-google game for xss
-google dorks to find slighty wrong keywords that might lead to vulnerabilities
-img onerror
-style-tag
-TODO: create website hierarchy only using links (host victim locally first)
+-google game for xss
+-google dorks to find slighty wrong keywords that might lead to vulnerabilities
+-img onerror
+-style-tag
+-TODO: create website hierarchy only using links (host victim locally first)
 
 SQL
 ---
-refresh SQL skills
+-refresh SQL skills
 
 GOOGLE DORKS
 ---
-Declassified CIA
-Index of /
+-Declassified CIA
+-Index of /
