@@ -25,6 +25,8 @@ Binary
 -r2
 -aaa
 -VV
+-hexdump
+-binwalk
 
 XSS
 ---
